@@ -1,8 +1,9 @@
 # About me
 
 - 👋 Hi, I’m @Refrizor
-- 🌱 Currently working on **DFA**, a DiamondFire activity project, as well as **Inferris**
-- 👀 I’m hella interested in psychology, gaming, and photography. Favorite games of all times would have to be games from the Halo or Bioshock series, but Minecraft takes the list
+- 👀 I’m hella interested in psychology, especially in the field of mental health around cognitive distortions,  anxiety, mood, and personality disorders, and the treatment of mental disorders. I enjoy gaming and photography, and I'm all for the little things in life!
+
+- Stay **kind** and **compassionate**. You never know what someone's life was like. Love over fear <3
 
 <!---
 Refrizor/Refrizor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
