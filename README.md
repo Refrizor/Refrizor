@@ -1,7 +1,7 @@
 # About me
 
 - Into software engineering
-- I’m really into clinical psychology, especially around anxiety, mood, and personality disorders and the treatment of them primarily through types of psychotherapy, majorly dialetical behavioral therapy and cognitive behavioral therapy. I enjoy gaming and photography, and I'm all for the little things in life!
+- I love clinical psychology, gaming and photography, and seeking discomfort!
 
 - Stay **kind** and **compassionate**! You never know what someone's life was like.
 
