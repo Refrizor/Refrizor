@@ -1,6 +1,6 @@
-🛠️ Full-Stack Developer | Predominantly Java → Now into JavaScript/TypeScript
-📦 Building with React, Next.js, Express & REST APIs
-🛠️ Currently: Working on Inferris
+* 🛠 Full-Stack Developer | Predominantly Java → Now into JavaScript/TypeScript
+* Building with React, Next.js, Express & REST APIs
+* Currently: Working on Inferris
 
 ## Goals:
 
