@@ -1,25 +1,47 @@
-* 🛠 Full-Stack Developer | Predominantly Java → Now I'm into JS/TypeScript, and Python for data science
-  * I love backend development and data modeling!
-* Building with Express and RESTful APIs, React, and Next.js
-* Currently enrolled in an IBM program to obtain a professional full-stack software developer certificate
-* Working on Inferris (one of my largest projects yet!)
-* Advocate for [AFSP](https://afsp.org) <sub><a href="https://afsp.org"><img src="https://www.datocms-assets.com/12810/1587726862-afsplifesaverblue.png?ar64=MTox&crop=faces&fit=crop&fm=webp&w=200" alt="AFSP" width="25" height="25"></a></sub>
+Hi, I’m Devin (Refrizor here) — yes, I do a lot of dev’in. I’m a full-stack developer - started in Java, now working primarily in TypeScript/JavaScript, with Python for data science and automation. I’m most at home in backend engineering, especially RESTful APIs and data modeling.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Refrizor)](https://git.io/streak-stats)
+Outside of programming, I nerd out about cosmology and physics, and I’m passionate about psychology, writing, and social impact- especially human/civil rights. I’m drawn to systems, stories, and how people think... and coffee! *PS: IU football’s championship run turned me into a (very new) football fan! HOOSIERSSS*
+
+- Building with **Express**, **React**, and slowly **Next.js**
+- Working on **Inferris** - a platform for conversation with substance, safe culture, connection, and a games/activities ecosystem
+- Advocate for **AFSP** (American Foundation for Suicide Prevention)
+  <sub><a href="https://afsp.org"><img src="https://www.datocms-assets.com/12810/1587726862-afsplifesaverblue.png?ar64=MTox&crop=faces&fit=crop&fm=webp&w=200" alt="AFSP" width="25" height="25"></a></sub>
+
+---
+
+## Currently
+- **Building:** **Server Tracker** — uptime + heartbeats + session history + metrics (API + plugin + panel)
+- **Improving:** testing, CI/CD, schema/architecture patterns
+- **Learning:** advanced TypeScript + validation patterns, DDD, Django/ORMs
+- **Enrolled:** IBM Full-Stack Software Developer Professional Certificate program
+
+![Profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Refrizor&theme=default)
+
+## What I work with
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Coffee](https://img.shields.io/badge/Fueled%20by-Coffee-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white)
 
 ## Projects
-* [Server Tracker](https://github.com/Refrizor/server-tracker_v1) (v1) is a registry tracker for server instance uptime tracking and transient player-session tracking. Contains a TypeScript REST API and a Spigot plugin for Mojang server instances.
-* [Inferris Rewrite v2](https://github.com/Refrizor/inferris-rewrite-v2) is a Java plugin that consumes a REST API using Retrofit, Jackson, Guice (DI), and Caffeine (TTL caching).
-* [timetools-gui](https://github.com/Refrizor/timetools-gui) is a lightweight Java Swing GUI for generating and parsing Unix epoch timestamps for sysadmin workflows.
-* [oaqjp-final-project-emb-ai](https://github.com/Refrizor/oaqjp-final-project-emb-ai) is a course capstone that parses ML model API responses to classify emotion predictions and confidence scores.
+- [**Server Tracker (v1)**](https://github.com/Refrizor/server-tracker_v1) — TypeScript REST API + Spigot plugin for server uptime and transient player/session tracking.
+- [**Inferris Rewrite (v2)**](https://github.com/Refrizor/inferris-rewrite-v2) — Java plugin REST consumer using Retrofit, Jackson, Guice (DI), and Caffeine (TTL caching).
+- [**timetools-gui**](https://github.com/Refrizor/timetools-gui) — lightweight Java Swing tool for generating/parsing Unix epoch timestamps.
+- [**oaqjp-final-project-emb-ai**](https://github.com/Refrizor/oaqjp-final-project-emb-ai) — capstone that parses ML model API responses to classify emotions + confidence.
 
-## Goals (2026)
-
-* Continue leveling up in modern JS/TS and React-based app development
-  * Strengthen Redux implementations
-* Finish & open-source the network monitoring repository catering to the Minecraft server admin/dev and networking ecosystem (in progress)
-* Continue advances in Python with a focus on data science, automation, AI, and beyond
-* Keep pushing creative boundaries in programming, psychology, writing, and photography
+## 2026 Goals
+- Ship **Server Tracker** as a clean, open-source, production-style demo (tests + CI/CD + docs)
+- Improve **TypeScript** and **React/Next.js** through shipped projects
+- Improve state management patterns (incl. use of **Redux**)
+- Go deeper with **Python** for data science, automation, and applied AI where needed
+- Keep building across programming + psychology + writing + photography
 
 <!--
 ## Inferris
