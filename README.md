@@ -5,7 +5,7 @@
 * Working on Inferris (one of my largest projects yet!)
 * Advocate for [AFSP](https://afsp.org) <sub><a href="https://afsp.org"><img src="https://www.datocms-assets.com/12810/1587726862-afsplifesaverblue.png?ar64=MTox&crop=faces&fit=crop&fm=webp&w=200" alt="AFSP" width="25" height="25"></a></sub>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Refrizor)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Refrizor)](https://git.io/streak-stats)
 
 ## Projects
 * [Server Tracker](https://github.com/Refrizor/server-tracker_v1) (v1) is a registry tracker for server instance uptime tracking and transient player-session tracking. Contains a TypeScript REST API and a Spigot plugin for Mojang server instances.
