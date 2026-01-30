@@ -5,7 +5,7 @@
 * Working on Inferris (one of my largest projects yet!)
 
 ## Projects
-* [Server Tracker](https://github.com/Refrizor/server-tracker_v1) (v1) is an uptime and player-session tracker built with a TypeScript REST API and a Spigot plugin for Mojang servers.
+* [Server Tracker](https://github.com/Refrizor/server-tracker_v1) (v1) is a registry tracker for server instance uptime tracking and transient player-session tracking. Contains a TypeScript REST API and a Spigot plugin for Mojang server instances.
 * [Inferris Rewrite v2](https://github.com/Refrizor/inferris-rewrite-v2) is a Java plugin that consumes a REST API using Retrofit, Jackson, Guice (DI), and Caffeine (TTL caching).
 * [timetools-gui](https://github.com/Refrizor/timetools-gui) is a lightweight Java Swing GUI for generating and parsing Unix epoch timestamps for sysadmin workflows.
 * [oaqjp-final-project-emb-ai](https://github.com/Refrizor/oaqjp-final-project-emb-ai) is a course capstone that parses ML model API responses to classify emotion predictions and confidence scores.
