@@ -1,5 +1,5 @@
 * 🛠 Full-Stack Developer | Predominantly Java → Now I'm into JS/TypeScript, and Python for data science
-  * I love backend development!
+  * I love backend development and data modeling!
 * Building with Express and RESTful APIs, React, and Next.js
 * Currently enrolled in an IBM program to obtain a professional full-stack software developer certificate
 * Working on Inferris (one of my largest projects yet!)
