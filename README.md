@@ -10,7 +10,7 @@ Outside of programming, I nerd out about cosmology and physics, and I’m passio
 ---
 
 ## Currently
-- **Building:** **Server Tracker** — uptime + heartbeats + session history + metrics (API + plugin + panel)
+- **Building:** **Pulsacod** — uptime + heartbeats + session history + metrics (API + plugin + panel)
 - **Improving:** testing, CI/CD, schema/architecture patterns
 - **Learning:** advanced TypeScript + validation patterns, DDD, Django/ORMs
 - **Enrolled:** IBM Full-Stack Software Developer Professional Certificate program
