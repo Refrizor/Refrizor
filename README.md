@@ -10,7 +10,7 @@ Outside of programming, I nerd out about cosmology and physics, and I’m passio
 ---
 
 ## Currently
-- **Building:** **Pulsacod** — uptime + heartbeats + session history + metrics (API + plugin + panel)
+- **Building:** [**Pulsacod**](https://github.com/Refrizor/pulsacod) — uptime + heartbeats + session history + metrics (API + plugin + panel)
 - **Improving:** testing, CI/CD, schema/architecture patterns
 - **Learning:** advanced TypeScript + validation patterns, DDD, Django/ORMs
 - **Enrolled:** IBM Full-Stack Software Developer Professional Certificate program
@@ -37,7 +37,7 @@ Outside of programming, I nerd out about cosmology and physics, and I’m passio
 - [**oaqjp-final-project-emb-ai**](https://github.com/Refrizor/oaqjp-final-project-emb-ai) — capstone that parses ML model API responses to classify emotions + confidence.
 
 ## 2026 Goals
-- Ship **Server Tracker** as a clean, open-source, production-style demo (tests + CI/CD + docs)
+- Ship **Pulsacod** as a clean, open-source, production-style demo (tests + CI/CD + docs)
 - Improve **TypeScript** and **React/Next.js** through shipped projects
 - Improve state management patterns (incl. use of **Redux**)
 - Go deeper with **Python** for data science, automation, and applied AI where needed
