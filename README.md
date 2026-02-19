@@ -1,18 +1,17 @@
-Hi, I’m Devin (Refrizor here) — yes, I do a lot of dev’in. I’m a full-stack developer - started in Java, now working primarily in TypeScript/JavaScript, with Python for data science and automation. I’m most at home in backend engineering, especially RESTful APIs and data modeling.
+Hi, I’m Devin (Refrizor ). Full-stack developer - started in Java, now working in TypeScript/JavaScript, with Python for data science and automation. I’m most at home in backend engineering.
 
-Outside of programming, I nerd out about cosmology and physics, and I’m passionate about psychology, writing, and social impact- especially human/civil rights. I’m drawn to systems, stories, and how people think... and coffee! *PS: IU football’s championship run turned me into a (very new) football fan! HOOSIERSSS*
+Outside of programming, I nerd out about cosmology and physics, and I’m passionate about psychology, writing, and social impact- especially human/civil rights. I’m drawn to systems, stories, and how people think. And coffee! *PS: IU football’s championship run turned me into a (very new) football fan!*
 
-- Building with **Express**, **React**, and slowly **Next.js**
-- Working on **Inferris** - a platform for conversation with substance, safe culture, connection, and a games/activities ecosystem
+- Working on **Inferris** - a platform for fostering conversation with substance, safe culture, connection, and a games/activities ecosystem
 - Advocate for **AFSP** (American Foundation for Suicide Prevention)
   <sub><a href="https://afsp.org"><img src="https://www.datocms-assets.com/12810/1587726862-afsplifesaverblue.png?ar64=MTox&crop=faces&fit=crop&fm=webp&w=200" alt="AFSP" width="25" height="25"></a></sub>
 
 ---
 
 ## Currently
-- **Building:** [**Pulsacod**](https://github.com/Refrizor/pulsacod) — uptime + heartbeats + session history + metrics (API + plugin + panel)
+- **Building:** [**Pulsacod**](https://github.com/Refrizor/pulsacod) — uptime + heartbeats + session history + todo metrics (API + plugin + panel)
 - **Improving:** testing, CI/CD, schema/architecture patterns
-- **Learning:** advanced TypeScript + validation patterns, DDD, Django/ORMs
+- **Learning:** advanced Java & TypeScript + validation patterns, DDD
 - **Enrolled:** IBM Full-Stack Software Developer Professional Certificate program
 
 ![Profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Refrizor&theme=default)
@@ -28,7 +27,6 @@ Outside of programming, I nerd out about cosmology and physics, and I’m passio
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Coffee](https://img.shields.io/badge/Fueled%20by-Coffee-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white)
 
 ## Projects
 - [**Server Tracker (v1)**](https://github.com/Refrizor/server-tracker_v1) — TypeScript REST API + Spigot plugin for server uptime and transient player/session tracking.
@@ -37,11 +35,12 @@ Outside of programming, I nerd out about cosmology and physics, and I’m passio
 - [**oaqjp-final-project-emb-ai**](https://github.com/Refrizor/oaqjp-final-project-emb-ai) — capstone that parses ML model API responses to classify emotions + confidence.
 
 ## 2026 Goals
-- Ship **Pulsacod** as a clean, open-source, production-style demo (tests + CI/CD + docs)
-- Improve **TypeScript** and **React/Next.js** through shipped projects
+- Ship **Pulsacod** as a clean, open-source, production-style demo
+- Improve skills in Java, TS, and algorithmic problem-solving
+- Learn Spring
 - Improve state management patterns (incl. use of **Redux**)
 - Go deeper with **Python** for data science, automation, and applied AI where needed
-- Keep building across programming + psychology + writing + photography
+- Keep building across programming + writing
 
 <!--
 ## Inferris
