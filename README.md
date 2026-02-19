@@ -1,6 +1,6 @@
-Hi, I’m Devin (Refrizor ). Full-stack developer - started in Java, now working in TypeScript/JavaScript, with Python for data science and automation. I’m most at home in backend engineering.
+Hi, I’m Devin (Refrizor). Full-stack developer - Java, TypeScript/JavaScript, and recently Python for data science and automation. I’m most at home in backend engineering.
 
-Outside of programming, I nerd out about cosmology and physics, and I’m passionate about psychology, writing, and social impact- especially human/civil rights. I’m drawn to systems, stories, and how people think. And coffee! *PS: IU football’s championship run turned me into a (very new) football fan!*
+Outside of programming, I nerd out about cosmology and physics, and I’m passionate about psychology, creative writing, and social impact- especially human/civil rights. I’m drawn to systems, stories, and how people think. And coffee! *PS: IU football’s championship run turned me into a (very new) football fan!*
 
 - Working on **Inferris** - a platform for fostering conversation with substance, safe culture, connection, and a games/activities ecosystem
 - Advocate for **AFSP** (American Foundation for Suicide Prevention)
