@@ -16,16 +16,16 @@ Outside of programming, I nerd out about cosmology and physics, and I’m passio
 
 ## What I typically work with
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Java](https://img.shields.io/badge/Java-2F3542?style=flat-square&logo=openjdk&logoColor=F97316)
+![JavaScript](https://img.shields.io/badge/JavaScript-2F3542?style=flat-square&logo=javascript&logoColor=F0DB4F)
+![TypeScript](https://img.shields.io/badge/TypeScript-2F3542?style=flat-square&logo=typescript&logoColor=60A5FA)
+![Python](https://img.shields.io/badge/Python-2F3542?style=flat-square&logo=python&logoColor=93C5FD)
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-2F3542?style=flat-square&logo=react&logoColor=61DAFB)
+![Express](https://img.shields.io/badge/Express-2F3542?style=flat-square&logo=express&logoColor=E5E7EB)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2F3542?style=flat-square&logo=postgresql&logoColor=60A5FA)
+![Redis](https://img.shields.io/badge/Redis-2F3542?style=flat-square&logo=redis&logoColor=F87171)
 
 ## Projects
 
