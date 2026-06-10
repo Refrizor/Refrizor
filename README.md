@@ -7,7 +7,7 @@ Outside of programming, I nerd out about cosmology and physics, and I’m passio
 ## Currently
 
 - **Building:**
-  - [**Pulsacod**](https://github.com/Refrizor/pulsacod) - server instance monitoring and session tracking ecosystem catering toward Mojang servers
+  - [Pulsacod](https://github.com/Refrizor/pulsacod) - server instance monitoring and session tracking ecosystem catering toward Mojang servers
   - [Inferris](https://github.com/orgs/inferris-com/repositories) - a platform for fostering conversation with substance, safe culture, connection, and an ongoing games/activities ecosystem in development
 - **Learning:** C++; advanced Java & TypeScript
 - **Enrolled:** IBM Full-Stack Software Developer Professional Certificate program
@@ -29,11 +29,12 @@ Outside of programming, I nerd out about cosmology and physics, and I’m passio
 
 ## Projects
 
-[**Portfolio**](https://github.com/Refrizor/portfolio) — my portfolio web application
-- [**Server Tracker (v1)**](https://github.com/Refrizor/server-tracker_v1) — TypeScript REST API + Spigot plugin for server uptime and transient player/session tracking.
-- [**Inferris Rewrite (v2)**](https://github.com/Refrizor/inferris-rewrite-v2) — Java plugin REST consumer using Retrofit, Jackson, Guice (DI), and Caffeine (TTL caching).
-- [**timetools-gui**](https://github.com/Refrizor/timetools-gui) — lightweight Java Swing tool for generating/parsing Unix epoch timestamps.
-- [**oaqjp-final-project-emb-ai**](https://github.com/Refrizor/oaqjp-final-project-emb-ai) — capstone that parses ML model API responses to classify emotions + confidence.
+- [**Portfolio**](https://github.com/Refrizor/portfolio)
+- [**Pulsacod**](https://github.com/Refrizor/pulsacod)
+- [**IBM Developer Capstone Project**](https://github.com/Refrizor/xrwvm-fullstack_developer_capstone) - dealership website demo
+- [**Server Tracker (v1)**](https://github.com/Refrizor/server-tracker_v1) - TypeScript REST API + Spigot plugin for server uptime and transient player/session tracking
+- [**Inferris Rewrite (v2)**](https://github.com/Refrizor/inferris-rewrite-v2) - Java plugin REST consumer using Retrofit, Jackson, Guice (DI), and Caffeine (TTL caching)
+- [**timetools-gui**](https://github.com/Refrizor/timetools-gui) - lightweight Java Swing tool for generating/parsing Unix epoch timestamps
 
 ## 2026 Goals
 
