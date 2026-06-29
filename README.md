@@ -8,9 +8,9 @@ Outside of programming, I nerd out about cosmology and physics, and I’m passio
 
 - **Building:**
   - [Pulsacod](https://github.com/Refrizor/pulsacod) - server instance monitoring and session tracking ecosystem catering toward Mojang servers
-  - [Inferris](https://github.com/orgs/inferris-com/repositories) - a platform for fostering conversation with substance, safe culture, connection, and an ongoing games/activities ecosystem in development
-- **Learning:** C++; advanced Java & TypeScript
-- **Enrolled:** IBM Full-Stack Software Developer Professional Certificate program
+  - [Inferris](https://github.com/orgs/inferris-com/repositories) - a social platform under construction to encourage meaningful conversation, foster thoughtful community culture, and build shared experiences across gaming networks and engineered activities
+- **Learning:** C++, Machine Learning, advanced Java & TypeScript
+- **Recently Completed:** IBM Full-Stack Software Developer Professional Certificate program
 
 ![Profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Refrizor&theme=default)
 
@@ -40,7 +40,8 @@ Outside of programming, I nerd out about cosmology and physics, and I’m passio
 
 - Ship **Pulsacod**
 - Open-source the initial version of the Inferris API
+- Deepen understanding in Machine Learning
 - Improve knowledge in C++, Java, TS, and algorithmic problem-solving
 - Learn Java Spring
 - Improve state management patterns
-- Go deeper with Python for data science, automation, and applied AI where needed
+- Go deeper in Python and data science
