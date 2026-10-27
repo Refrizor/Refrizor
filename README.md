@@ -23,7 +23,6 @@ Outside of programming, I nerd out about cosmology and physics, and I’m passio
 
 ![React](https://img.shields.io/badge/React-2F3542?style=flat-square&logo=react&logoColor=61DAFB)
 ![Express](https://img.shields.io/badge/Express-2F3542?style=flat-square&logo=express&logoColor=E5E7EB)
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2F3542?style=flat-square&logo=postgresql&logoColor=60A5FA)
 ![Redis](https://img.shields.io/badge/Redis-2F3542?style=flat-square&logo=redis&logoColor=F87171)
 
