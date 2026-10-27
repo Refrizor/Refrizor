@@ -28,12 +28,14 @@ Outside of programming, I nerd out about cosmology and physics, and I’m passio
 
 ## Projects
 
-- [**Portfolio**](https://github.com/Refrizor/portfolio)
+- [**Inferris API**](https://github.com/inferris-com/inferris-api) - large TypeScript API application for my social-gaming platform
 - [**Pulsacod**](https://github.com/Refrizor/pulsacod)
 - [**IBM Developer Capstone Project**](https://github.com/Refrizor/xrwvm-fullstack_developer_capstone) - dealership website demo
 - [**Server Tracker (v1)**](https://github.com/Refrizor/server-tracker_v1) - TypeScript REST API + Spigot plugin for server uptime and transient player/session tracking
 - [**Inferris Rewrite (v2)**](https://github.com/Refrizor/inferris-rewrite-v2) - Java plugin REST consumer using Retrofit, Jackson, Guice (DI), and Caffeine (TTL caching)
 - [**timetools-gui**](https://github.com/Refrizor/timetools-gui) - lightweight Java Swing tool for generating/parsing Unix epoch timestamps
+
+My [**portfolio**](https://github.com/Refrizor/portfolio) is its own application over yonder.
 
 ## 2026 Goals
 
