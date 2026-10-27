@@ -7,8 +7,8 @@ Outside of programming, I nerd out about cosmology and physics, and I’m passio
 ## Currently
 
 - **Building:**
-  - [Pulsacod](https://github.com/Refrizor/pulsacod) - server instance monitoring and session tracking ecosystem catering toward Mojang servers
   - [Inferris](https://github.com/orgs/inferris-com/repositories) - a social platform under construction to encourage meaningful conversation, foster thoughtful community culture, and build shared experiences across gaming networks and engineered activities
+  - [Pulsacod](https://github.com/Refrizor/pulsacod) - server instance monitoring and session tracking ecosystem catering toward Mojang servers
 - **Learning:** C++, Machine Learning, advanced Java & TypeScript
 - **Recently Completed:** IBM Full-Stack Software Developer Professional Certificate program
 
